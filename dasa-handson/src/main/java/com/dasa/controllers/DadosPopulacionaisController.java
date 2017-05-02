@@ -13,7 +13,7 @@ import com.dasa.domain.EstatisticaAnoResponse;
 import com.dasa.service.DadosPopulacionaisService;
 
 @RestController
-@RequestMapping("/calculoPopulacional")
+@RequestMapping("/dadosPopulacionais")
 public class DadosPopulacionaisController {
 
 	@Autowired
